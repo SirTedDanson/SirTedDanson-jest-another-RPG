@@ -1,16 +1,22 @@
 {
-  "name": "rpg",
+  "name": "07-jest-another-rpg",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "jest"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SirTedDanson/jest-another-RPG.git"
+  },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "inquirer": "^7.0.3",
-    "jest": "^24.9.0"
+  "bugs": {
+    "url": "https://github.com/SirTedDanson/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/SirTedDanson/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.4.5"
   }
 }
